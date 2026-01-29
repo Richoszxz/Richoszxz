@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Undergraduate Software Engineering SMK Brantas Karangkates '23<br>🌱 Learning Dart + Flutter<br>⚡ Hellow ! My name is Richo Ferdinand, uuu can call me Richoww. my hobbies are Swimming, Dancing, and Singing. i love so muchhhhhhh mobile apps programming 💙💙💙💙💙💙💙💙
+🔭 Student Software Engineering SMK Brantas Karangkates '23<br>🌱 Learning Dart + Flutter<br>⚡ Hellow ! My name is Richo Ferdinand, uuu can call me Richoww. my hobbies are Swimming, Dancing, and Singing. i love so muchhhhhhh mobile apps programming 💙💙💙💙💙💙💙💙
 
 
 ## 🌐 Socials:
